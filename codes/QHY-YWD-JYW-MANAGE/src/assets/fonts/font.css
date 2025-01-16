@@ -1,0 +1,30 @@
+  @font-face {
+    font-family: "Inter-Bold";
+    src: url('Inter-Bold-4.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Inter-Regular";
+    src: url('Inter-Regular-9.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Inter-SemiBold";
+    src: url('Inter-SemiBold-10.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Inter-Medium";
+    src: url('Inter-Medium-8.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Inter-ExtraBold";
+    src: url('Inter-ExtraBold-5.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
